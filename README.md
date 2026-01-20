@@ -89,5 +89,3 @@ The following machine learning models were trained and evaluated:
 - Scikit-learn
 
 ---
-
-## 📁 Repository Structure
